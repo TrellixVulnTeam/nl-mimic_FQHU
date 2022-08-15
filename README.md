@@ -11,3 +11,5 @@ Then, I tried to transform this into what I would later find out is an adjacency
 ### Attempt #2 - 8/15/2022
 
 I found out that Markov Chains are indeed just directed graphs of states. So, I planned a solution similar to the adjacency matrix, except this time I used an adjacency list to form the digraph. It turned out much more elegant, and had the desired improvement in performance. It might just be me, but the predictions also seem a bit more accurate (perhaps as an artifact of a better use of random choices to better represent edge weights).
+
+I think my next big improvement will have something to do with traversing this graph in a particular way, or with taking into account grammar and sentece structure. Maybe both. Either way, I do not even remember what the parts of a sentence are called, so time to study I guess.
