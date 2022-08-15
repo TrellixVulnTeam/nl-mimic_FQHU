@@ -1,6 +1,6 @@
 # Predicting What Someone Would Say
 
-This notebook is a compilation of my attempts at solving this problem -- predicting what someone might say, based on what they have said in the past. I update this once in a while, when I get new ideas or more experience. Here is a summary of the attempts I have made so far:
+This is a compilation of my attempts at solving this problem -- predicting what someone might say, based on what they have said in the past. I update this once in a while, when I get new ideas or more experience. Here is a summary of the attempts I have made so far:
 
 ### Attempt #1 - 2/20/2022
 
